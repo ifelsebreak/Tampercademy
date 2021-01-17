@@ -13,7 +13,9 @@ Its intended use is to skip the parts that you already know from previous study/
 
 **You still have to take quizzes and tests, so you have to know the topics covered in the lessons to progress.**
 
-Once you get into a course, the scripts starts looking for progress buttons (things like "Next", "Next lesson", "Continue" etc.), when on the code editor pages it will complete the tasks for you, run the code and continue to the next section; if there's no need for code completion it will just check the checkboxes and continue to the next section.
+Sections with the bash terminal also have to be completed manually.
+
+Once you get into a course, the scripts starts looking for progress buttons (things like "Next", "Next lesson", "Continue" etc.); when on the code editor page, it will complete the tasks for you, run the code and continue to the next section; if there's no need for code completion it will just check the checkboxes and continue to the next section.
 
 When the script gets to a Quiz where user input is needed, you get a system notification so you know it's not progressing (you might want to double **check if you allowed notifications**).
 
