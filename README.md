@@ -22,4 +22,9 @@ Once you get into a course, the scripts starts looking for progress buttons (thi
 
 When the script gets to a Quiz where user input is needed, you get a system notification so you know it's not progressing (you might want to double **check if you allowed notifications**).
 
+#### Missing features:
+
+- [ ] Recognize when script is stuck and notify user
+- [x] Notify user when script reaches a quiz
+- [ ] Notify user when you get to a bash terminal section
 
