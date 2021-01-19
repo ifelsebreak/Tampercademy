@@ -7,6 +7,9 @@
 
 # Overview
 
+
+![Overview](https://github.com/ifelsebreak/Tampercademy/blob/main/Tampercademy_footage.gif)
+
 This is a script for Tampermonkey/Greasemonkey that automatically completes [codecademy.com](http://www.codecademy.com/) courses for you.
 
 Its intended use is to skip the parts that you already know from previous study/experience while still having them marked as completed in your account.
